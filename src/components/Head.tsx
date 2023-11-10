@@ -5,7 +5,7 @@ import { Button } from './ui/button'
 
 const Head = () => {
   return (
-    <div className='flex flex-row justify-center w-full items-center'>
+    <div className='flex flex-row justify-center w-full items-center mt-[60px]'>
         <div className='w-[90%] flex flex-col justify-center items-center'>
         <h1 className='font-bold text-[48px] text-black'>
             You write the title and we do the rest!
